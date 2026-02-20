@@ -1,0 +1,1 @@
+SELECT SUM(total_revenue) FROM sales_clean;
