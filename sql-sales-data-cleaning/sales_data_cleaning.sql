@@ -1,6 +1,6 @@
 /* 
 SQL Sales Data Cleaning Project
-Author: Jenn Barcenas
+Author: Jennifer Barcenas
 Description: Cleaning raw sales data and creating an analysis-ready table
 */
 
